@@ -31,7 +31,9 @@ const page = () => {
           ))}   
         </div>
         <div className='text-slate-600 font-semibold'>
-          And.. I also have some project what I don't have in vercel or other deploy pages. I started these projects just to practice. For example: proshop
+          <span>
+            And.. I also have some project what I don&apos;t have in vercel or other deploy pages. I started these projects just to practice.
+          </span>
         </div>
     </section>
   )
