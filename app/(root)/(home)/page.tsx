@@ -40,10 +40,10 @@ const page = () => {
               </Link>
             </div>
             <div className='flex gap-5 justify-center items-center tablet:justify-start mt-4'>
-              <div className='btn bg-gray-300 shadow-box border-gray-400 cursor-pointer hover:scale-105'>
+              <a href='/CV_kristofkovesi.pdf' download="CV_kristofkovesi.pdf" className='btn bg-gray-300 shadow-box border-gray-400 cursor-pointer hover:scale-105'>
                 Download my CV
                 <ArrowDown size={16} />
-              </div>
+              </a>
             </div>
         </div>
 
