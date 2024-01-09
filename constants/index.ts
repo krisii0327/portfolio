@@ -93,7 +93,7 @@ export const infocards = [
     id: 3,
     name: "Hobbies",
     description:
-      "My hobbies are programming, hiking, sports, watching series, playing board games and the cars and car mechanics. I love to spend my night to just repair something. I also have B category driving licence and I wourld like to take E category.",
+      "My hobbies are programming, hiking, sports, watching series, playing board games and the cars and car mechanics. I love to spend my night to just repair something. I also have B category driving licence and I would like to take E category.",
   },
   {
     id: 4,
@@ -229,7 +229,7 @@ export const socialLinks = [
     id: 1,
     label: "Linkedin",
     icon: Linkedin,
-    url: "#",
+    url: "https://www.linkedin.com/in/kristofkovesi/",
   },
   {
     id: 2,
@@ -313,7 +313,7 @@ export const schools = [
     id: 3,
     name: "University of Kecskemét - GAMF",
     study: "System Administrator Engineer Assistant",
-    duration: "2017 - 2018",
+    duration: "2017 - 2019",
     logo: "/images/gamf.png",
   },  {
     id: 4,
