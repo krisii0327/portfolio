@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (min-width: 320px) {
+    html {
+        font-size: calc(14px + 1 * ((100vw - 320px) / 680));
+    }
+}
+
+@media screen and (min-width: 1040px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@layer base {
+    h1 {
+        @apply text-5xl font-bold;
+    }
+
+    h2 {
+        @apply text-4xl font-bold;
+    }
+
+    h3 {
+        @apply text-3xl font-semibold;
+    }
+
+    h4 {
+        @apply text-2xl font-semibold;
+    }
+
+    h5 {
+        @apply text-xl font-semibold;
+    }
+
+    h6 {
+        @apply font-semibold;
+    }
+
+}
+
+@layer utilities {
+    .max-width {
+        @apply max-w-[1920px] mx-auto px-[16px] tablet:px-[80px] desktop:px-[162px];
+    }
+
+    .grid-use {
+        @apply grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-8;
+    }
+
+    .grid-use-benefit-firstrow {
+        @apply grid grid-cols-1 sm:grid-cols-[1.35fr,2fr] gap-4 mb-4;
+    }
+
+    .grid-use-benefit-secondrow {
+        @apply grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-8;
+    }
+
+    .shadow-box {
+        @apply border p-4 rounded-lg shadow shadow-gray-300 bg-white;
+    }
+
+    .btn {
+        @apply flex items-center justify-center gap-2 rounded-lg px-5 py-3.5 capitalize text-grey-700;
+    }
+
+    .btn-primary {
+        @apply text-gray-100 bg-crimson;
+    }
+
+    .btn-secondary {
+        @apply text-gray-700 border border-gray-400;
+    }
+
+    input,
+    textarea {
+        @apply w-full mb-4 rounded px-6 py-4 border border-gray-400 bg-gray-50 outline-none text-sm text-grey-700 shadow shadow-gray-400
+    }
+}
