@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <section className='max-width tablet:mt-12 tablet:mb-12 mt-8 mb-8'>
-        <SectionHeading title={"My portfolio"} subtitle={"These pages are created by me in my free time."}/>
+        <SectionHeading title={"My portfolio"} subtitle={"these pages are created by me in my free time."}/>
 
         <div className='mb-10'>
           <div className='text-xl mb-2 text-slate-700 ml-4'>My main project at the moment. I am working on this project when I have free time.</div>

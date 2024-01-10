@@ -152,7 +152,7 @@ export const portfoliosAll = [
       "/images/mainproject-3.png",
     ],
     github: "https://github.com/krisii0327/cardiary-app",
-    info: "CarDiary App V2 is my main project at the momment. I have a lot of idea for this page, my main goal is to make a useful page to small companies. I started this page in Next JS 14. In the future, I want to share this page to the world, because in my opinion It can be useful. With this page, they can manage their own vehicles everywhere, they don't have to collect all the bills about a car. They can document it in this page easily with some easy steps in a responsive webpage."
+    info: "CarDiary App V2 is my main project at the momment. I have a lot of idea for this project, my main goal is to make a useful page to small companies. I started this page in Next JS 14. In the future, I want to share this with the world, because in my opinion it can be useful. With this application, they can manage their own vehicles everywhere, they don't have to collect all the bills about a car. They can document it in here easily with a few steps in a responsive webpage."
   },
   {
     id: 2,
@@ -200,7 +200,7 @@ export const portfoliosAll = [
       "/images/ablakozok-3.png",
     ],
     github: "https://github.com/krisii0327/ablakozok",
-    info: "This page was my first biggest project. In this page, I learned the basics of CSS, to improve my logic to Tailwind.",
+    info: "This page was my first bigger HTML project. In this page, I learned the basics of CSS to improve my logic to Tailwind.",
   },
   {
     id: 6,
@@ -210,7 +210,7 @@ export const portfoliosAll = [
       "/images/shopping-1.png"
     ],
     github: "https://github.com/krisii0327/shopping-list",
-    info: "This page was just a test for how can I play with browser console. I made a search bar."
+    info: "This page was just a test for how can I use the browser console to make Javascript. I made a search bar with it."
   },
   {
     id: 7,
@@ -220,7 +220,7 @@ export const portfoliosAll = [
       "/images/testimonial-1.png"
     ],
     github: "https://github.com/krisii0327/testimonials-grid-section-main",
-    info: "Testimonial page was helped me to understand the basics of tailwind css."
+    info: "Testimonial page helped me to understand the basics of Tailwind CSS."
   }
 ];
 
@@ -262,7 +262,7 @@ export const timeline = [
   {
     id: 1,
     position: "IT MES System Engineer",
-    duration: "2021 - NOW",
+    duration: "2022 - NOW",
     company: "Robert Bosch Elektronika Kft. - Hatvan",
     description: [
       "Managing around 200 VM, Windows and Linux also.",
@@ -276,7 +276,7 @@ export const timeline = [
   {
     id: 2,
     position: "Network Builder - System Engineer trainee",
-    duration: "2020 - 2021",
+    duration: "2021 - 2022",
     company: "SopiaNet Kft. - Pécs",
     description: [
       "Construction and programming of security systems.",
@@ -291,8 +291,8 @@ export const timeline = [
     duration: "2015 - 2020",
     company: "Meló-Diák Dunaújváros Iskolaszövetkezet - Dunaújváros",
     description: [
-      "In the most of time I worked in a Factory, where I worked in some different positions.",
-      "I was in a lot of different company, where I had chance to work."
+      "In most of the time I worked in a Factory, where I got the opportunity to see different positions.",
+      "I had the chance to work in a lot of different type of companies."
     ]
   },
 ];
@@ -300,14 +300,14 @@ export const schools = [
   {
     id: 1,
     name: "University of Óbuda - NIK",
-    study: "Cybersecurity Engineer Master's Deegre",
+    study: "Cybersecurity Engineer Master's Degree",
     duration: "2023 - NOW",
     logo: "/images/nik.png",
   },  {
     id: 2,
     name: "University of Pécs - MIK",
-    study: " Computer Science Engineer Bachelor's Deegre with System Engineer specialization",
-    duration: "2018 - 2021",
+    study: " Computer Science Engineer Bachelor's Degree with System Engineer specialization",
+    duration: "2018 - 2022",
     logo: "/images/mik.jpg",
   },  {
     id: 3,

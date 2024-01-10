@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-    title : "About - Kristóf Kövesi CV"
+    title : "Work experience - Kristóf Kövesi CV"
 }
 
 const page = () => {
@@ -14,7 +14,7 @@ const page = () => {
 
         {/* carrer */}
         <div>
-          <SectionHeading title={'Experience from my career'} subtitle={'treading a bumpy road'}/>
+          <SectionHeading title={'My work experiences'} subtitle={'places where I learned a lot'}/>
         
           <div className='mx-2 tablet:mx-20'>
             {timeline.map((item, index) => (

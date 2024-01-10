@@ -107,7 +107,7 @@ const page = () => {
 
       {/* portfolios */}
       <section className='max-width'>
-        <SectionHeading title='My projects' subtitle="Lorem ipsum dolor sit amet consectetur adipisicing elit." />
+        <SectionHeading title='My projects' subtitle="things I did in my free time" />
 
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8'>
             {portfolios.map((project, index) => (
