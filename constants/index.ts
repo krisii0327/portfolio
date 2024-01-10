@@ -93,19 +93,19 @@ export const infocards = [
     id: 3,
     name: "Hobbies",
     description:
-      "My hobbies are programming, hiking, sports, watching series, playing board games and also I am interested in  cars and car mechanics. I like to spend my time with just fixing things. I also have B category driving licence and I would like to take E category in the future.",
+      "My hobbies are programming, hiking, sports, watching series, playing board games and also I am interested in  cars and car mechanics. I like to spend my time with just repairing things. I also have B category driving licence and I would like to take E category in the future.",
   },
   {
     id: 4,
     name: "Personal competences",
     description:
-      "I am capable of identifying and solving problems. I am also capable for continuous learning and self-improvement, constantly developing skills and knowledge. The time managment is not question for me, I can set my goals to every week. I think my personality is very creative and open-minded. I can easily communicate with someone else.",
+      "I am capable of identifying and solving problems. I am also capable of continuous learning and self-improvement, constantly developing skills and knowledge. The time managment is not a question for me, I can set my goals for every week. I think my personality is very creative and open-minded. I can easily communicate with anybody.",
   },
   {
     id: 5,
-    name: "Placeholder card",
+    name: "Goals",
     description:
-      "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "In the future I would like to get my Master's degree at Cyber Security. I also want to take more German lessons because I want to take a German language exam too. I want to improve my programming skills and my logic to solve more difficult IT problems.",
   },
 ];
 export const portfolios = [
