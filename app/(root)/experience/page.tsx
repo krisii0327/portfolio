@@ -21,7 +21,7 @@ const page = () => {
               As a person who is in the beginning of his career and also a student aswell, I have a big motivation for getting experiences in the future.
             </span>
             <span>
-              After the Bachelor's degree, I started to work as a System Engineer. This workposition is very diversified, I had chance to manage a lot of VM, Databases and Systems. I also had chance to understand robots and to configure them. I met with a lot of different foreign worker.
+              After the Bachelor&apos;s degree, I started to work as a System Engineer. This workposition is very diversified, I had chance to manage a lot of VM, Databases and Systems. I also had chance to understand robots and to configure them. I met with a lot of different foreign worker.
             </span>
             <span>
               I started to learn about Cyber Security at University of Óbuda, Budapest. I finished the first half year successfully. Cyber security will be very useful in the future as the world evolves. In this half year, we went deeper at the cryptograpy tecniques, databases and cloud computing. And we also took over what we learned during our previous studies. In the next half year, we will learn about the SOC tecniques. We will get the answer how we can defend our companies informations from the hackers. How we can recognize a cyber security attack as soon as possible.
