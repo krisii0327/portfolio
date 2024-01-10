@@ -87,13 +87,13 @@ export const infocards = [
     id: 2,
     name: "Languages",
     description:
-      "In primary school I started to learn English as first language in my life after my mother language. In middle school I started to learn russian. I loved it, but my vocabulary of words was not enough to get better. Before university I got my language exam in english (B2). After all because of the IT, I also started to learn germany. I finished one basic online school. I want to learn more it, but at the moment. I haven't got enough time for it.",
+      "In primary school I started to learn English as my second language. In middle school I started to learn russian. I loved it, but my vocabulary of words was not enough to get better. Before University I got my language exam in English (B2). After all because of the IT, I also started to learn German. I finished one basic online school what provided by my company. I would like to learn more German, but at the moment, I haven't got enough time for it.",
   },
   {
     id: 3,
     name: "Hobbies",
     description:
-      "My hobbies are programming, hiking, sports, watching series, playing board games and the cars and car mechanics. I love to spend my night to just repair something. I also have B category driving licence and I would like to take E category.",
+      "My hobbies are programming, hiking, sports, watching series, playing board games and also I am interested in  cars and car mechanics. I like to spend my time with just fixing things. I also have B category driving licence and I would like to take E category in the future.",
   },
   {
     id: 4,
