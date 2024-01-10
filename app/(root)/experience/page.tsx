@@ -29,7 +29,7 @@ const page = () => {
             <span>
               In my free time I started to get deeper at programming. Firstly I met with programming at University of Pécs. I also got some knowledge about the machine codes for example Bash, Powershell and AWK languages too. But the program code was more understandable for me. I learned the basics about Python, C# and HTML (CSS).
               After these programming languages I started to learn Javascript to develop webpages. I am interested in both of the Backend and Frontend techniques. I picked one of the most used framework, NextJS (React). I think I picked very well.
-              Because of it, I got better knowledge about backend Javascript programming, Tailwind style methods, about the MongoDB database, ExpressJS, NodeJS. I also learned about the API calls in web.
+              Because of it, I got better knowledge about backend Javascript programming, Tailwind style methods, about the MongoDB database, ExpressJS, NodeJS. I also learned about the API calls in web. I faced with a lot of different solution, what I had to understand to step for the next ladder.
             </span>
             <span>
               I started to make my own projects, to get better in both of the sides in web developing.
