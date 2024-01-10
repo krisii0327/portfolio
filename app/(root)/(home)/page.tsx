@@ -21,8 +21,8 @@ const page = () => {
                   This page is created by me to share a little information about myself. 
                 </span>
                 <span className='mb-2'>
-                  First of all, in 2018, I started to learn at University of Pécs and I obtained my degree in Computer Engineering with a specialization in Systems Engineering.
-                  After that, in 2023, I began studying as a cybersecurity engineer at University of Óbuda in Budapest. In addition to my hobbies, I started to learn programming in my free time because I love to learn new things.
+                  First of all, in 2018, I started to study at University of Pécs and I obtained my degree in Computer Engineering with a specialization in Systems Engineering.
+                  After that, in 2023, I began studying as a cybersecurity engineer at University of Óbuda in Budapest. In addition to my hobbies, I started programming in my free time because I love to learn new things.
                 </span>
                 <span>
                   If you have some question, feel free to ask me.

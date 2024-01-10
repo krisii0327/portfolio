@@ -37,7 +37,7 @@ export const skills = [
     id: 3,
     name: "Programming languages",
     description:
-      "In university, we learned a lot of programming languages, both of machine code and program code. Az én kedvenceim a Python és a C# voltak. After school I started to learn Javascript and Web developing with React, Next JS.",
+      "In university, we learned a lot of programming languages, both of machine code and program code. My favourites were C# and Python. After school I started to learn Javascript and Web developing with React, Next JS.",
     icon: Code,
   },
   {
@@ -79,9 +79,9 @@ export const skills = [
 export const infocards = [
   {
     id: 1,
-    name: "Love to learning and interesting in new things.",
+    name: "Love to learn and interested in new things.",
     description:
-      "After diplome I started to learn a lot of things, what I want to learn. I started to improve myself and I started my own life in the capital town in Budapest.",
+      "After university I started to learn a lot of new things to me, what I was interested in. I wanted to improve in IT, so I moved to the capital town, Budapest, because I could find lot more opportunities there.",
   },
   {
     id: 2,
