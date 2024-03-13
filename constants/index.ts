@@ -266,6 +266,7 @@ export const timeline = [
     company: "Robert Bosch Elektronika Kft. - Hatvan",
     description: [
       "Managing around 200 VM, Windows and Linux also.",
+      "Management of user rights - with the company own programs",
       "Managing MSSQL and Oracle databases, writing SQL querys.",
       "Working with MES, SAP.",
       "Creating C# and PowerShell/Bash scripts.",
@@ -282,6 +283,7 @@ export const timeline = [
       "Construction and programming of security systems.",
       "Construction and configuration of camera systems.",
       "Building structured network, configuring and programming network devices.",
+      "Building RACK storages and documentation about the whole RACK managment",
       "Construction and programming of fire protection systems.",
     ]
   },
